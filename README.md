@@ -1,5 +1,19 @@
 # Fruit-shop_project_python
-Fruit shop
-Choice of fruit type and availability in stock . 
 
-انتخاب نوع میوه و موجود بودن در انبار .
+This project involves selecting a fruit and checking its availability in the inventory.
+
+**Technologies used**
+
+Python
+
+**Features**
+
+Displaying a list
+
+User selection of fruit
+
+Checking inventory stock
+
+**Project objective**
+
+It was created as a practice exercise for working with lists and conditional statements.
